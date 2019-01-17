@@ -1,0 +1,3 @@
+cd ~
+virtualenv -p /usr/bin/python2.7 sqlenv
+source sqlenv/bin/activate
